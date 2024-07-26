@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="todo">TODO</string>
+    <string name="calculator_app">Calculator App</string>
+    <string name="enter_number_1">Enter number 1</string>
+    <string name="enter_number_2">Enter Number 2</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">x</string>
+    <string name="div">/</string>
+    <string name="result">Result :</string>
+</resources>
